@@ -2,7 +2,7 @@
     //RaffaMoreira  based on https://github.com/Fortyseven/nCage
     var main = function($) { 
         
-        var self = $. raffaMoreira = new function(){};
+        var self = $.raffaMoreira = new function(){};
         
         $.extend(self, {
             raffaImgs : [
